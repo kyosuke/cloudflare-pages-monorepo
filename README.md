@@ -1,0 +1,2 @@
+# cloudflare-pages-monorepo
+monorepoデプロイのテスト
